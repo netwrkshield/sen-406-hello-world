@@ -53,5 +53,3 @@ Author
 netwrkshield
 
 ```
-
-That's it. Copy the entire block above and paste it directly into your `README.md` file on GitHub.
